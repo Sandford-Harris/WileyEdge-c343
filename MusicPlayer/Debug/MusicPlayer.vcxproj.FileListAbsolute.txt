@@ -1,0 +1,2 @@
+C:\Users\Sandy\Documents\Wiley Edge training\VisualStudio\MusicPlayer\Debug\MusicPlayer.exe
+C:\Users\Sandy\Documents\Wiley Edge training\VisualStudio\MusicPlayer\Debug\MusicPlayer.pdb
